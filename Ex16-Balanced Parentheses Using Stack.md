@@ -1,4 +1,3 @@
-
 # Ex16 Check for Balanced Parentheses Using Stack
 ## DATE:
 ## AIM:
